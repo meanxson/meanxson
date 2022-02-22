@@ -1,4 +1,4 @@
-###                                                                              Hi there and Welcome! 👋
+### <h1 align="center"> Hi there and Welcome! 👋 </h1>
 
 
 - 💻 I'm an indie aspiring game developer.
