@@ -6,8 +6,8 @@
 - 🕹️ I’m currently learning C, C++, C#, Java,OpenGL: SFML, GLFW
 - 🔨 My main platform to date is Unity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meanxson&layout=compact) 
-![meanxson's GitHub stats](https://github-readme-stats.vercel.app/api?username=meanxson&show_icons=true&theme=radical) 
+<h1 align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meanxson&layout=compact)</h1>
+<h1 align="center">![meanxson's GitHub stats](https://github-readme-stats.vercel.app/api?username=meanxson&show_icons=true&theme=radical)</h1>
 
 
 
