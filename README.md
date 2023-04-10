@@ -1,5 +1,5 @@
 ### <h1 align="center"> Hello there and Welcome! 👋 </h1>
-<h3 align="center">Unity Developer</h3>
+<h3 align="center">Game Developer</h3>
 
 
 - 💻 I'm an indie aspiring game developer.
